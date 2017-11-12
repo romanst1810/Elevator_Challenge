@@ -1,0 +1,31 @@
+﻿.elevator {
+    width:50px;
+    float: left;
+    background-image: url('../AppData/elv.png');
+    background-repeat: no-repeat; 
+    background-size: 50px 50px;
+    background-position: bottom center;
+}
+
+.building {
+    float:left;
+}
+
+.floor_btn {
+    margin:22px 0px 0px 25px;
+    width: 50px;
+    height: 20px;
+    z-index: 100;
+}
+
+.panel {
+    width: 1000px;
+    display:block;
+    float:left;
+}
+
+.counter {
+    font-weight: 500;
+    font-size: 20px;
+    padding: 0 2px;
+}
